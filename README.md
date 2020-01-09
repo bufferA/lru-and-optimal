@@ -1,15 +1,16 @@
 # lru-and-optimal
 操作說明：
-在visual studio中屬性欄位中的命令引數輸入
-若要執行LRU則輸入:0 sample3.in out.text
-0為LRU選項
-sample3.in為輸入檔名
-out.text為輸出檔
-若要執行OPT則輸入:1 sample3.in out.text
+在visual studio中屬性欄位中的命令引數輸入  
 
-1為OPT選項
-sample3.in為輸入檔名
-out.text為輸出檔
+若要執行LRU則輸入:0 sample3.in out.text  
+0為LRU選項    
+sample3.in為輸入檔名  
+out.text為輸出檔  
+若要執行OPT則輸入:1 sample3.in out.text  
+
+1為OPT選項  
+sample3.in為輸入檔名  
+out.text為輸出檔  
 
 輸出檔即為排程完成之輸出
 設定完指令無需input任何文字
